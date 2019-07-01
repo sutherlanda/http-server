@@ -1,0 +1,11 @@
+# Python
+.pytest_cache
+
+# Python virtual environment
+venv
+
+# VSCode
+.vscode
+
+# macOS
+.DS_Store
